@@ -1,4 +1,4 @@
-<h1> Bem vindos ao meu mundo! <h1/>
+<h1 align="center"> Bem vindos ao meu mundo! <h1/>
 
 ##### Não reparem na bagunça haha.
 
