@@ -2,7 +2,10 @@
 
 <s>Não reparem a bagunça haha</s>
 
+<h3>Resumo Pessoal</h3>
 <p>Meu nome é Victor Sampaio, tenho 26 anos e moro em Mariana-MG. Durante 4 anos trabalhei como suporte técnico de informática, atuando com suporte à clientes, manutenção de computadores e redes, porém, agora busco um novo objetivo, me tornar um desenvolvedor back-end. Iniciei meus estudos em 2019 no curso de Análise e Desenvolvimento de Sistemas, mas decidi "dar o sangue" como dev por volta de setembro de 2020, onde migrei para o curso de Engenharia de Software e entrei de cabeça nessa jornada.</p>
+
+<h3>Estudos e Conhecimentos:</h3>
 
 <p>Atualmente venho estudando a linguagem C# e a plataforma .NET, alguns dos frutos desses estudos podem ser encontrados nos repositórios presentes no meu perfil, mas como resumo segue alguns conhecimentos adquiridos:</p>
 
