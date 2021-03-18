@@ -1,4 +1,4 @@
-<h2 align="center">Bem vindos ao meu mundo!</h1>
+<h2 align="center">Bem vindo ao meu mundo!</h1>
 
 <s>Não reparem na bagunça haha</s>
 
