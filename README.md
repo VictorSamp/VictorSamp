@@ -18,6 +18,7 @@
     <li><b>HTML, CSS e JavaScript:</b> Atuei um pouco com manutenção de sites em um dos meus empregos e aprendi uma quantidade razoável desses itens, além de aplicá-los também em alguns bootcamps que fiz.</li>
 </ul>
 
+</hr>
 <p>Enfim, sou um estudante dedicado e continuo em busca da minha primeira experiência na área, caso tenha dúvidas, dicas ou só queira jogar conversa fora, segue meus contatos:</p>
 
 <div align="center">
