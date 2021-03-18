@@ -1,6 +1,6 @@
 <h2 align="center">Bem vindo ao meu mundo!</h1>
 
-<s>Não reparem na bagunça haha</s>
+<s>Não reparem a bagunça haha</s>
 
 <p>Meu nome é Victor Sampaio, tenho 26 anos e moro em Mariana-MG. Durante 4 anos trabalhei como suporte técnico de informática, atuando com suporte à clientes, manutenção de computadores e redes, porém, agora busco um novo objetivo, me tornar um desenvolvedor back-end. Iniciei meus estudos em 2019 no curso de Análise e Desenvolvimento de Sistemas, mas decidi "dar o sangue" como dev por volta de setembro de 2020, onde migrei para o curso de Engenharia de Software e entrei de cabeça nessa jornada.</p>
 
