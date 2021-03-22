@@ -18,7 +18,7 @@ Atualmente tomei a decisão de me tornar um desenvolvedor back-end e encarar nov
     <li><b>EntityFrameworkCore:</b> No sistema de estoque utilizei o Entity para persistência em banco de dados, 					utilizando também o Code First e Migrations.</li>
     <li><b>SQL:</b> Devido a necessidade de persistência de banco de dados, precisei aprender sobre SQL e banco de dados 							relacional(Pk's, Fk's e etc.).</li>
     <li><b>REST:</b> Durante minha tentativa de criar uma API com CRUD básico, aprendi sobre o protocolo HTTP e os métodos GET, POST, PUT, PATCH e DELETE.</li>
-    <li><b>HTML, CSS e JavaScript:</b> Atuei um pouco com manutenção de sites em um dos meus empregos e aprendi uma quantidade razoável desses itens, além de aplicá-los também em alguns projetos de estudo que fiz, por exemplo no projeto <a href="https://github.com/VictorSamp/Instagram">Clone do Instagram</a>, onde desenvolvi todo o código com base nos meus conhecimentos.</li>
+    <li><b>HTML, CSS e JavaScript:</b> Atuei um pouco com manutenção de sites em um dos meus empregos e aprendi uma quantidade razoável desses itens, além de aplicá-los também em alguns projetos de estudo que fiz.</li>
 </ul>
 </hr>
 
