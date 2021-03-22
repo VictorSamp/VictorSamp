@@ -7,17 +7,18 @@
 Atualmente tomei a decisão de me tornar um desenvolvedor back-end e encarar novos desafios, onde para alcançar tal objetivo tenho buscado realizar diversos bootcamps e cursos online sobre a tecnologia C# | .NET.
 </p>
 
+
 <h3>Estudos e Conhecimentos:</h3>
 
 <p>Atualmente venho estudando a linguagem C# e a plataforma .NET, alguns dos frutos desses estudos podem ser encontrados nos repositórios presentes no meu perfile no meu currículo, mas como resumo segue alguns conhecimentos adquiridos:</p>
 
 <ul>
     <li><b>Programação Orientada a Objetos:</b> Herança, Polimorfismo, Encapsulamento e Abstração.</li>
-	<li><b>AspNet Core MVC:</b>Criei um sistema CRUD de estoque utilizando o padrão MVC.</li>
-    <li><b>EntityFrameworkCore:</b> Também no sistema de estoque utilizei o Entity para persistência em banco de dados, 					utilizando o também o Code First e Migrations.</li>
+	<li><b>AspNet Core MVC:</b> Estou desenvolvendo um <a href="https://github.com/VictorSamp/Inventory/tree/main/Inventory">sistema CRUD de estoque</a> utilizando o padrão MVC.</li>
+    <li><b>EntityFrameworkCore:</b> No sistema de estoque utilizei o Entity para persistência em banco de dados, 					utilizando também o Code First e Migrations.</li>
     <li><b>SQL:</b> Devido a necessidade de persistência de banco de dados, precisei aprender sobre SQL e banco de dados 							relacional(Pk's, Fk's e etc.).</li>
-    <li><b>REST:</b> Durante minha tentativa de criar uma API com CRUD básico, aprendi sobre o protocolo HTTP e os métodos GET, POST, PUT e DELETE.</li>
-    <li><b>HTML, CSS e JavaScript:</b> Atuei um pouco com manutenção de sites em um dos meus empregos e aprendi uma quantidade razoável desses itens, além de aplicá-los também em alguns bootcamps que fiz.</li>
+    <li><b>REST:</b> Durante minha tentativa de criar uma API com CRUD básico, aprendi sobre o protocolo HTTP e os métodos GET, POST, PUT, PATCH e DELETE.</li>
+    <li><b>HTML, CSS e JavaScript:</b> Atuei um pouco com manutenção de sites em um dos meus empregos e aprendi uma quantidade razoável desses itens, além de aplicá-los também em alguns projetos de estudo que fiz, por exemplo no projeto <a href="https://github.com/VictorSamp/Inventory/tree/main/Inventory">Clone do Instagram</a>, onde desenvolvi todo o código com base nos meus conhecimentos.</li>
 </ul>
 </hr>
 
