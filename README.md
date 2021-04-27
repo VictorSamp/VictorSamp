@@ -10,11 +10,11 @@ Atualmente tomei a decisão de me tornar um desenvolvedor back-end e encarar nov
 
 <h3>Estudos e Conhecimentos:</h3>
 
-<p>Atualmente venho estudando a linguagem C# e a plataforma .NET, alguns dos frutos desses estudos podem ser encontrados nos repositórios presentes no meu perfile no meu currículo, mas como resumo segue alguns conhecimentos adquiridos:</p>
+<p>Atualmente venho estudando a linguagem C# e a plataforma .NET, alguns dos frutos desses estudos podem ser encontrados nos repositórios presentes no meu perfil e no meu currículo, mas como resumo segue alguns conhecimentos adquiridos:</p>
 
 <ul>
     <li><b>Programação Orientada a Objetos:</b> Herança, Polimorfismo, Encapsulamento e Abstração.</li>
-	<li><b>AspNet Core MVC:</b> Estou desenvolvendo um <a href="https://github.com/VictorSamp/Inventory">sistema CRUD de estoque</a> utilizando o padrão MVC.</li>
+	<li><b>AspNet Core MVC:</b> Desenvolvi um <a href="https://github.com/VictorSamp/Inventory">sistema CRUD de estoque</a> utilizando o padrão MVC e focando no backend, nesse caso gerei o front-end de forma automática utilizando o scaffolding do aspnet.</li>
     <li><b>EntityFrameworkCore:</b> No sistema de estoque utilizei o Entity para persistência em banco de dados, 					utilizando também o Code First e Migrations.</li>
     <li><b>SQL:</b> Devido a necessidade de persistência de banco de dados, precisei aprender sobre SQL e banco de dados 							relacional(Pk's, Fk's e etc.).</li>
     <li><b>REST:</b> Durante minha tentativa de criar uma API com CRUD básico, aprendi sobre o protocolo HTTP e os métodos GET, POST, PUT, PATCH e DELETE.</li>
