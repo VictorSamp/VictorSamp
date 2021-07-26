@@ -22,7 +22,7 @@ Atualmente tomei a decisão de me tornar um desenvolvedor back-end e encarar nov
 </ul>
 </hr>
 
-<p>Enfim, sou um estudante dedicado e continuo em busca da minha primeira experiência na área, caso tenha dúvidas, dicas ou só queira jogar conversa fora, segue meus contatos:</p> 
+<p>Enfim, sou um estudante dedicado e nessa minha caminhada consegui meu primeiro estágio como dev c#. Caso tenha dúvidas, dicas ou só queira jogar conversa fora, segue meus contatos:</p> 
 
 <div align="center">       
     <a href="https://www.linkedin.com/in/victormsampaio/"><img src="https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/victormsampaio/" /></a>
